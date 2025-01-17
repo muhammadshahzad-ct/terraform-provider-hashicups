@@ -1,3 +1,3 @@
 # Terraform Provider Hashicups
 
-Test Hashicups Provider
+Test Hashicups Provider for CDKTF
